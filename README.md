@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [![arctic](logo/arctic_50.png)](https://github.com/manahl/arctic) [Arctic TimeSeries and Tick store](https://github.com/manahl/arctic)
 
 
@@ -134,3 +135,6 @@ Contributions welcome!
 ## License
 
 Arctic is licensed under the GNU LGPL v2.1.  A copy of which is included in [LICENSE](LICENSE)
+=======
+# arctic
+>>>>>>> 5a8452b5070aedf78b6fc461b35c6528cf89c697
